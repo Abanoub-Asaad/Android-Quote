@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="next_quote">NEXT QUOTE</string>
+    <string name="share">SHARE</string>
+
+    <string name="quote1">“We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.”\n— Aristotle</string>
+    <string name="quote2">“Be yourself; everyone else is already taken.”\n― Oscar Wilde</string>
+    <string name="quote3">“You only live once, but if you do it right, once is enough.”\n― Mae West</string>
+    <string name="quote4">“Be the change that you wish to see in the world.”\n― Mahatma Gandhi</string>
+    <string name="quote5">“No one can make you feel inferior without your consent.”\n― Eleanor Roosevelt</string>
+    <string name="quote6">"“If you tell the truth, you don't have to remember anything.”\n― Mark Twain"</string>
+    <string name="quote7">“Whatever you do, do it well.”\n― Walt Disney</string>
+    <string name="quote8">“Determine your priorities and focus on them.”\n― Eileen McDargh </string>
+    <string name="quote9">“Yesterday you said tomorrow. Just do it.”\n― Nike</string>
+
+    <string name="quote10">“Be so happy that when others look at you, they become happy too”</string>
+    <string name="quote11">“Try to be a rainbow in someone’s cloud.”\n― Maya Angelou</string>
+    <string name="quote12">“What consumes your mind controls your life”\n― Unknown</string>
+    <string name="quote13">“May your choices reflect your hopes, not your fears.”\n― Nelson Mandela</string>
+    <string name="quote14">“It hurt because it mattered.”\n― John Green</string>
+    <string name="quote15">“Done is better than perfect”\n― Sheryl Sandberg</string>
+
+
+
+</resources>
